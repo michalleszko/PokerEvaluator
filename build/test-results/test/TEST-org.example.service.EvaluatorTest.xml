@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite name="org.example.service.EvaluatorTest" tests="1" skipped="0" failures="0" errors="0" timestamp="2023-01-10T15:16:17" hostname="asus" time="0.274">
+  <properties/>
+  <testcase name="evaluateFull()" classname="org.example.service.EvaluatorTest" time="0.274"/>
+  <system-out><![CDATA[]]></system-out>
+  <system-err><![CDATA[]]></system-err>
+</testsuite>
